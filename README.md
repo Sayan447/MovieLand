@@ -23,7 +23,6 @@ Movieland is a sleek and intuitive ReactJS-based movie search application, desig
 
 ## Technologies Used
 - ReactJS
-- Axios (for API requests)
 - CSS (for styling)
 
 ## Contributing
