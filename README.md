@@ -29,8 +29,6 @@ Movieland is a sleek and intuitive ReactJS-based movie search application, desig
 ## Contributing
 We welcome contributions! If you have ideas for improving Movieland or want to report issues, please feel free to open an issue or submit a pull request.
 
-## License
-Movieland is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - This project uses the OMDb API for movie data.
