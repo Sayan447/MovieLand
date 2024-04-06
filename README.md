@@ -22,7 +22,7 @@ Movieland is a sleek and intuitive ReactJS-based movie search application, desig
 7. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 ## Technologies Used
-- ReactJS
+- ReactJS (front-end library)
 - CSS (for styling)
 
 ## Contributing
